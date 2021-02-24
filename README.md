@@ -1,11 +1,8 @@
-#### React Router Fix
+### Greetings! :wave:
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+## React Cocktail App
+A task to practise useContext, useCallbacks :shipit:   All data fetched from https://www.thecocktaildb.com/api/json/v1/1/search.php?s= :recycle:
 
-#### CRA Fix
+## Project Page
 
-```
-
-"build": "CI= react-scripts build",
-
-```
+Feel free to check out the page at - https://amazing-agnesi-e007ad.netlify.app/
